@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T09:59:33.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="uCXhtSvEqlCanIf9wqAg" version="22.1.16" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-08T10:01:35.131Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="xDJaTHw0nvsVKYZPDnbZ" version="22.1.16" type="github" pages="2">
   <diagram name="窗口框架" id="sRRVcdi_eqUOFvVj3uMj">
-    <mxGraphModel dx="5044" dy="2244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3955" dy="1649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -832,7 +832,7 @@
         <mxCell id="0Abhgnyc_GTrU-fZ9ia2-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=26;" parent="1" source="0Abhgnyc_GTrU-fZ9ia2-29" target="0Abhgnyc_GTrU-fZ9ia2-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0Abhgnyc_GTrU-fZ9ia2-29" value="QBoxLayout" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
+        <mxCell id="0Abhgnyc_GTrU-fZ9ia2-29" value="QVBoxLayout" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="880" y="-680" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="0Abhgnyc_GTrU-fZ9ia2-30" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Helvetica;fontColor=default;" parent="0Abhgnyc_GTrU-fZ9ia2-29" vertex="1">
@@ -847,7 +847,7 @@
         <mxCell id="0Abhgnyc_GTrU-fZ9ia2-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=26;" parent="1" source="0Abhgnyc_GTrU-fZ9ia2-33" target="0Abhgnyc_GTrU-fZ9ia2-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0Abhgnyc_GTrU-fZ9ia2-33" value="QBoxLayout" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
+        <mxCell id="0Abhgnyc_GTrU-fZ9ia2-33" value="QHBoxLayout" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="880" y="-558" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="0Abhgnyc_GTrU-fZ9ia2-34" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Helvetica;fontColor=default;" parent="0Abhgnyc_GTrU-fZ9ia2-33" vertex="1">
